@@ -13,9 +13,13 @@ An app built for a company as part of a project
 
 **Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
 --I spent around 5-ish hours on this project.
+
 ~30 min: Setting up the project structure and organizing folders...This is always critical. 
+
 ~2 hours: Building the core functionality — models, API fetching with Swift Concurrency, and error handling.
+
 ~2 hour: Testing the app and debugging.
+
 ~30 minutes: Polishing the UI, adding pull-to-refresh, and writing documentation.
 
 **Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
